@@ -6,10 +6,5 @@
 .hr {
   border: none;
   border-bottom: 1px solid #efefef;
-  margin: 1em auto;
-}
-
-.logo {
-  margin-left: 32px;
-  color: rgb(29, 29, 29);
+  margin: 1.5em auto;
 }
